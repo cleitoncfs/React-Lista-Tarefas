@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Lista-Tarefas/static/css/main.f58864cc.css",
-    "main.js": "/React-Lista-Tarefas/static/js/main.585f12d6.js",
+    "main.css": "/React-Lista-Tarefas/static/css/main.6f3a5001.css",
+    "main.js": "/React-Lista-Tarefas/static/js/main.48d8af4a.js",
     "index.html": "/React-Lista-Tarefas/index.html",
-    "main.f58864cc.css.map": "/React-Lista-Tarefas/static/css/main.f58864cc.css.map",
-    "main.585f12d6.js.map": "/React-Lista-Tarefas/static/js/main.585f12d6.js.map"
+    "main.6f3a5001.css.map": "/React-Lista-Tarefas/static/css/main.6f3a5001.css.map",
+    "main.48d8af4a.js.map": "/React-Lista-Tarefas/static/js/main.48d8af4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f58864cc.css",
-    "static/js/main.585f12d6.js"
+    "static/css/main.6f3a5001.css",
+    "static/js/main.48d8af4a.js"
   ]
 }
