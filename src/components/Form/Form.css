@@ -1,0 +1,32 @@
+.form {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-input {
+  height: 40px;
+  padding: 0 20px;
+  font-size: 20px;
+  border: 1px solid #ccc;
+  min-width: 80%;
+}
+
+.button-plus {
+  border: none;
+  height: 40px;
+  width: 40px;
+  background: #f04c64;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-plus:hover {
+  background: #fff;
+  color: #f04c64;
+  border: 1px solid #f04c64;
+}
