@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Lista-Tarefas/static/css/main.f58864cc.css",
+    "main.js": "/React-Lista-Tarefas/static/js/main.585f12d6.js",
+    "index.html": "/React-Lista-Tarefas/index.html",
+    "main.f58864cc.css.map": "/React-Lista-Tarefas/static/css/main.f58864cc.css.map",
+    "main.585f12d6.js.map": "/React-Lista-Tarefas/static/js/main.585f12d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58864cc.css",
+    "static/js/main.585f12d6.js"
+  ]
+}
